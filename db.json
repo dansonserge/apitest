@@ -1,21 +1,21 @@
 {
     "amount_check":[
         {
-            "account":12341234,
+            "id":12341234,
             "response":true
         },
         {
-            "account":6265752345234,
+            "id":6265752345234,
             "response":false
         }
 ],
     "amount_lock":[
         {
-            "account":12341234,
+            "id":12341234,
             "response": "success"
         },
         {
-            "account":6265752345234,
+            "id":6265752345234,
             "response": "failed"
         }
     ] 
