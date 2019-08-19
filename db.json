@@ -1,0 +1,8 @@
+{
+    "amount_check":{
+       "response":true
+    },
+    "amount_lock":{
+        "response":"success"
+    }
+}
